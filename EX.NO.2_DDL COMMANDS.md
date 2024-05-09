@@ -1,6 +1,6 @@
 # EXP NO 2: DATA DEFINITION LANGUAGE COMMANDS AND ITS CONSTRAINTS
-### DATE : 
-### REGISTER NUMBER: 
+### DATE : 212222040139
+### REGISTER NUMBER: SAKTHI PRIYA D
 ## AIM:
  To study and write DDL commands and different types of constraints.
 ## THEORY
